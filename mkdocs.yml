@@ -1,0 +1,1 @@
+site_name: Kinga AI Docs\nnav:\n  - Home: index.md\n  - Getting Started:\n      - Local Dev: getting-started/local-dev.md\n
